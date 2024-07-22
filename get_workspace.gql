@@ -1,0 +1,6 @@
+{
+  workspaces {
+    id
+    name
+  }
+}
